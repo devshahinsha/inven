@@ -1,11 +1,12 @@
 # Inventory Pivot Script
 
-A Python script to process Shopify product export CSV files and generate an Excel file with inventory data grouped by base SKU and size variants.
+A Python script and web app to process Shopify product export CSV files and generate Excel files with inventory data grouped by base SKU and size variants.
 
 ## Features
 
 - Extracts base SKU from Variant SKU by removing the size suffix
 - Groups inventory by base SKU and size
+- **Automatically consolidates duplicate EU/US sizes** (keeps EU sizes only)
 - Creates Excel output with:
   - Base SKU in the first column
   - One column per unique size (sorted numerically)
@@ -23,10 +24,26 @@ pip install -r requirements.txt
 Or install directly:
 
 ```bash
-pip install pandas openpyxl
+pip install pandas openpyxl streamlit
 ```
 
 ## Usage
+
+### Web App (Recommended)
+
+Launch the web app:
+
+```bash
+streamlit run app.py
+```
+
+Then open your browser to the URL shown (typically `http://localhost:8501`). The web app provides:
+- Drag-and-drop CSV file upload
+- Real-time processing
+- Preview of results
+- One-click Excel download
+
+### Command Line
 
 Basic usage:
 
@@ -70,7 +87,9 @@ python process_inventory.py input/products.csv output/inventory.xlsx
 
 3. **Grouping**: All variants are grouped by base SKU, and inventory is collected for each size.
 
-4. **Output**: Creates an Excel file with:
+4. **EU/US Size Consolidation**: Automatically detects when the same physical size is represented in both EU and US sizing systems, merges them, and keeps only the EU size.
+
+5. **Output**: Creates an Excel file with:
    - First column: Base SKU
    - Middle columns: Each unique size found across all products (sorted numerically)
    - Last column: Total inventory for that base SKU
@@ -102,6 +121,7 @@ sku-1234-red   | 4  | 6  |    |    | 10
 - Python 3.7+
 - pandas >= 2.0.0
 - openpyxl >= 3.0.0
+- streamlit >= 1.28.0 (for web app)
 
 ## Error Handling
 
