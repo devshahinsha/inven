@@ -1,0 +1,621 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Unit Price Total Measure,Unit Price Total Measure Unit,Unit Price Base Measure,Unit Price Base Measure Unit,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Google: Custom Product (product.metafields.mm-google-shopping.custom_product),Age group (product.metafields.shopify.age-group),Boot type (product.metafields.shopify.boot-type),Closure type (product.metafields.shopify.closure-type),Color (product.metafields.shopify.color-pattern),Footwear material (product.metafields.shopify.footwear-material),Heel height type (product.metafields.shopify.heel-height-type),Inline skating style (product.metafields.shopify.inline-skating-style),Shell/Frame material (product.metafields.shopify.shell-frame-material),Shoe features (product.metafields.shopify.shoe-features),Shoe size (product.metafields.shopify.shoe-size),Sneaker style (product.metafields.shopify.sneaker-style),Target gender (product.metafields.shopify.target-gender),Toe style (product.metafields.shopify.toe-style),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,Mens Green Fields Slip On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1"">Green Fields </span>
+</li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,M10-Black-40_AN_AN_AZ,0.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Side_b55f1e5c-839d-4770-b50b-4384c0d75721.jpg?v=1632136727,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,,,,,,,,,41,,,,,,,,M10-Black-41_AN_AN_AZ,0.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Angle_a823b4e0-30b1-4751-95e2-ab57936f615c.jpg?v=1632136727,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,,,,,,,,,42,,,,,,,,M10-Black-42_AN_AN_AZ,0.0,shopify,4,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Top_d0f1aedc-cadf-48ea-b6bd-302f617d9528.jpg?v=1632136727,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,,,,,,,,,43,,,,,,,,M10-Black-43_AN_AN_AZ,0.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Style_e2be90b4-a886-4d11-801e-c3639973ca9b.jpg?v=1632136727,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,,,,,,,,,44,,,,,,,,M10-Black-44_AN_AN_AZ,0.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Back_3dea8318-2543-45a3-b0cc-c8288a3d5be3.jpg?v=1632136727,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m10,,,,,,,,,45,,,,,,,,M10-Black-45_AN_AN_AZ,0.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,Mens Green Fields Slip On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> <a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal shoes"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black, NOON",true,Size,40,,,,,,,,SW02-Black-40_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Formal-Black-Mens-Side_6b6eaf3f-b369-4183-9b1e-5f0c8a722c34.jpg?v=1609225973,1,"",false,Men's Green Fields Slip On Formal Shoes | Black comfortable Shoes ,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,,,,,,,,,41,,,,,,,,SW02-Black-41_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Formal-Black-Mens-Angle_bb37c4be-7083-44be-8271-d5f2f61e267a.jpg?v=1609225972,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,,,,,,,,,42,,,,,,,,SW02-Black-42_AN,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Formal-Black-Mens-Top_61bdbcc7-c3a5-4155-9b9a-f8c665f3beac.jpg?v=1609225972,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,,,,,,,,,43,,,,,,,,SW02-Black-43_AN,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Formal-Black-Mens-Style_4c24daea-1bd5-4e51-96c8-53e5409a943e.jpg?v=1609225973,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,,,,,,,,,44,,,,,,,,SW02-Black-44_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Formal-Black-Mens-Back_402ae10c-c3f7-4c11-88e0-69f5f3c73005.jpg?v=1609225972,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-sw02,,,,,,,,,45,,,,,,,,SW02-Black-45_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,Mens Green Fields Plain Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Back, NOON",true,Size,40,,,,,,,,CA01-Black-40_AN_AN_AZ,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFiled-Formal-Black-Mens-Side.jpg?v=1609228169,1,"",false,Men's Green Fields Slip On Formal Shoes | Comfortable Flat Shoes,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,,,,,,,,,41,,,,,,,,CA01-Black-41_AN_AN_AZ,800.0,shopify,2,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFiled-Formal-Black-Mens-Angle.jpg?v=1609228169,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,,,,,,,,,42,,,,,,,,CA01-Black-42_AN_AN_AZ,800.0,shopify,3,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFiled-Formal-Black-Mens-Back.jpg?v=1609228169,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,,,,,,,,,43,,,,,,,,CA01-Black-43_AN_AN_AZ,800.0,shopify,5,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFiled-Formal-Black-Mens-Style.jpg?v=1609228169,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,,,,,,,,,44,,,,,,,,CA01-Black-44_AN_AN_AZ,800.0,shopify,2,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFiled-Formal-Black-Mens-Top.jpg?v=1609228169,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-ca01,,,,,,,,,45,,,,,,,,CA01-Black-45_AN_AN_AZ,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,Mens Green Fields Slip On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span><span data-mce-fragment=""1""> </span>
+</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Slip-On <a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"">formal</a> shoes  </span></li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black, NOON",true,Size,40,,,,,,,,MG01-Black-40_AN_AZ,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formal-Black-Men-Side_3973ddfa-0467-4b77-9641-18e839cfd0d9.jpg?v=1609232068,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,,,,,,,,,41,,,,,,,,MG01-Black-41_AN_AZ,800.0,shopify,3,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formal-Black-Men-Angle_f8f14983-2541-4b89-940b-585a01c26836.jpg?v=1609232068,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,,,,,,,,,42,,,,,,,,MG01-Black-42_AN_AZ,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formal-Black-Men-Top_a2967acd-98e8-493d-a6a2-193737e60c7f.jpg?v=1609232068,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,,,,,,,,,43,,,,,,,,MG01-Black-43_AN_AZ,800.0,shopify,4,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formal-Black-Men-Back_aded4daa-dc8e-41ed-96f1-32045ac06d50.jpg?v=1609232068,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,,,,,,,,,44,,,,,,,,MG01-Black-44_AN_AZ,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formal-Black-Men-Style_db9b4f02-f006-42b5-847f-53f8dc62526e.jpg?v=1609232068,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-mg01,,,,,,,,,45,,,,,,,,MG01-Black-45_AN_AZ,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+mens-high-land-comfortable-formal-shoes,Mens High Land Comfortable Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"" title=""High Land Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"">High Land</a>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes </li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Back",true,Size,40,,,,,,,,2303-Black-40_AN_AN,500.0,shopify,1,deny,manual,47.50,95.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formal-Side_2897c37b-d52a-425a-983d-f90bb99c2df1.jpg?v=1610872944,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,active
+mens-high-land-comfortable-formal-shoes,,,,,,,,,41,,,,,,,,2303-Black-41_AN_AN,500.0,shopify,2,deny,manual,47.50,95.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formal-Top_0c811cba-9e28-4c8c-960b-40c94fa66da9.jpg?v=1610872944,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+mens-high-land-comfortable-formal-shoes,,,,,,,,,42,,,,,,,,2303-Black-42_AN_AN,500.0,shopify,3,deny,manual,47.50,95.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formal-Angle_3b41c300-123c-4145-a025-1114c0472c8d.jpg?v=1610872945,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+mens-high-land-comfortable-formal-shoes,,,,,,,,,43,,,,,,,,2303-Black-43_AN_AN,500.0,shopify,3,deny,manual,47.50,95.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formal-Back_11d5cb22-4fe6-4662-a04b-4e521f2709ba.jpg?v=1610872945,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+mens-high-land-comfortable-formal-shoes,,,,,,,,,44,,,,,,,,2303-Black-44_AN_AN,500.0,shopify,1,deny,manual,47.50,95.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formal-Style_0cefa2bf-f934-4ad1-831d-d36b6831fd41.jpg?v=1610872945,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+mens-high-land-comfortable-formal-shoes,,,,,,,,,45,,,,,,,,2303-Black-45_AN_AN,500.0,shopify,0,deny,manual,47.50,95.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,Mens Green Fields Lace-Up Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Green Fields </span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,M01-Black-40_AN,800.0,shopify,1,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Side.jpg?v=1633183769,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,,,,,,,,,41,,,,,,,,M01-Black-41_AN,800.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Angle.jpg?v=1633183769,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,,,,,,,,,42,,,,,,,,M01-Black-42_AN,800.0,shopify,4,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Back.jpg?v=1633183769,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,,,,,,,,,43,,,,,,,,M01-Black-43_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Front.jpg?v=1633183769,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,,,,,,,,,44,,,,,,,,M01-Black-44_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-lace-up-shoes-black-m01,,,,,,,,,45,,,,,,,,M01-Black-45_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,Mens Green Fields Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,M02-Black-40_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Side_57f62c04-0065-4c9c-b54e-b8e2a6fe9c8f.jpg?v=1633177309,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,,,,,,,,,41,,,,,,,,M02-Black-41_AN,800.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Angle_7f19aedc-add4-4467-936d-31030a2333a9.jpg?v=1633177309,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,,,,,,,,,42,,,,,,,,M02-Black-42_AN,800.0,shopify,1,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Back_a015a161-c210-4f58-84b2-cf32e97269a9.jpg?v=1633177309,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,,,,,,,,,43,,,,,,,,M02-Black-43_AN,800.0,shopify,3,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Front_a97b485e-a2eb-4322-9a4b-cbcfacbcca7e.jpg?v=1633177309,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,,,,,,,,,44,,,,,,,,M02-Black-44_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-m02,,,,,,,,,45,,,,,,,,M02-Black-45_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,Mens Green Fields Plain Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,R105-Black-40_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Side_f8eda8e1-abd0-4deb-945d-32647d13a6e4.jpg?v=1615378489,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,,,,,,,,,41,,,,,,,,R105-Black-41_AN,800.0,shopify,1,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Angle_df82393c-5daa-4ec7-9199-9c20624a91e8.jpg?v=1615378489,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,,,,,,,,,42,,,,,,,,R105-Black-42_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Back_7c214e44-44b6-4d9c-8a41-b1ff08364356.jpg?v=1615378489,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,,,,,,,,,43,,,,,,,,R105-Black-43_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFlieds-Mens-Formalshoes-Black-Frount.jpg?v=1615378489,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,,,,,,,,,44,,,,,,,,R105-Black-44_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-r105,,,,,,,,,45,,,,,,,,R105-Black-45_AN,800.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-ferrini-mens-plain-formal-shoes-black-g8335,Mens Plain Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Ferrini</span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Ferrini, Category-Formal, Color_Black",true,Size,40,,,,,,,,G8335-Black-6,800.0,shopify,0,deny,manual,65.00,130.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Ferrini-Mens-Formalshoes-Black-Side.jpg?v=1615380063,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-ferrini-mens-plain-formal-shoes-black-g8335,,,,,,,,,41,,,,,,,,G8335-Black-7,800.0,shopify,2,deny,manual,65.00,130.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Ferrini-Mens-Formalshoes-Black-Angle.jpg?v=1615380063,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-ferrini-mens-plain-formal-shoes-black-g8335,,,,,,,,,42,,,,,,,,G8335-Black-8,800.0,shopify,4,deny,manual,65.00,130.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Ferrini-Mens-Formalshoes-Black-Back.jpg?v=1615380063,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-ferrini-mens-plain-formal-shoes-black-g8335,,,,,,,,,43,,,,,,,,G8335-Black-9,800.0,shopify,3,deny,manual,65.00,130.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Ferrini-Mens-Formalshoes-Black-Front.jpg?v=1615380063,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-ferrini-mens-plain-formal-shoes-black-g8335,,,,,,,,,44,,,,,,,,G8335-Black-10,800.0,shopify,2,deny,manual,65.00,130.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+<li data-mce-fragment=""1"">Color Black</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP926-Black-6_N,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/5_1e25c4bc-270d-4f76-8bdf-2c5c07fadce5.jpg?v=1617868293,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp926,,,,,,,,,41,,,,,,,,TP926-Black-7_N,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Formals-Black-Mens-Angle.jpg?v=1617868293,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926,,,,,,,,,42,,,,,,,,TP926-Black-8_N,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Formals-Black-Mens-Top.jpg?v=1617868293,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926,,,,,,,,,43,,,,,,,,TP926-Black-9_N,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Formals-Black-Mens-Back.jpg?v=1617868293,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926,,,,,,,,,44,,,,,,,,TP926-Black-10_N,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Formals-Black-Mens-Style.jpg?v=1617868293,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926-1,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+<li data-mce-fragment=""1"">Color Brown</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Brown",true,Size,40,,,,,,,,TP926-Brown-6_AN,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/3_9468edef-fcdc-4d0f-a4a4-011af09b0a7f.jpg?v=1617866942,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp926-1,,,,,,,,,41,,,,,,,,TP926-Brown-7_AN,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Brown-Formal-ANGLE.jpg?v=1617866942,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926-1,,,,,,,,,42,,,,,,,,TP926-Brown-8_AN,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Brown-Formal-Top.jpg?v=1617866939,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926-1,,,,,,,,,43,,,,,,,,TP926-Brown-9_AN,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Brown-Formal-bACK.jpg?v=1617866939,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp926-1,,,,,,,,,44,,,,,,,,TP926-Brown-10_AN,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Brown-Formal-Style.jpg?v=1617866939,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp927,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Color Brown</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP927-Black-6_AN,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/2_4d42ac9a-dbf9-4fbb-838a-2f86bba91eec.jpg?v=1617867102,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp927,,,,,,,,,41,,,,,,,,TP927-Black-7_AN,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Angle.jpg?v=1617867102,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp927,,,,,,,,,42,,,,,,,,TP927-Black-8_AN,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Style.jpg?v=1617867102,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp927,,,,,,,,,43,,,,,,,,TP927-Black-9_AN,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Top.jpg?v=1617867102,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp927,,,,,,,,,44,,,,,,,,TP927-Black-10_AN,800.0,shopify,4,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Back.jpg?v=1617867102,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp925,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Color Black</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP925-Black-6_N,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/1_9dd230ca-1a39-4096-af87-7d59f6eb0fd8.jpg?v=1617867260,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp925,,,,,,,,,41,,,,,,,,TP925-Black-7_N,800.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Angle_5bae639c-f72a-4254-a6fb-760a56811d17.jpg?v=1617867260,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp925,,,,,,,,,42,,,,,,,,TP925-Black-8_N,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Style_a0056af1-0af7-4a78-a54d-311c18834715.jpg?v=1617867260,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp925,,,,,,,,,43,,,,,,,,TP925-Black-9_N,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Top_5688761c-7995-4a63-acab-d35f1ba7d06b.jpg?v=1617867260,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp925,,,,,,,,,44,,,,,,,,TP925-Black-10_N,800.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Back_d7c3e01e-3737-488b-a1ab-d2eed3d9c556.jpg?v=1617867260,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-slip-on-formal-shoes-black-tp934-01,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look PU upper</span>
+</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP934_01-Black-40,800.0,shopify,0,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Black-Side.jpg?v=1617870078,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,active
+buy-topland-mens-slip-on-formal-shoes-black-tp934-01,,,,,,,,,41,,,,,,,,TP934_01-Black-41,800.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Black-Angle.jpg?v=1617870079,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp934-01,,,,,,,,,42,,,,,,,,TP934_01-Black-42,800.0,shopify,0,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Black-Top.jpg?v=1617870079,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp934-01,,,,,,,,,43,,,,,,,,TP934_01-Black-43,800.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Black-Back.jpg?v=1617870079,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp934-01,,,,,,,,,44,,,,,,,,TP934_01-Black-44,800.0,shopify,1,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Black-Style.jpg?v=1617870079,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp933-01,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look PU upper</span>
+</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Generic, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP933_01-Black-40,800.0,shopify,0,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Shoes-Side.jpg?v=1633183783,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,active
+buy-topland-mens-slip-on-formal-shoes-black-tp933-01,,,,,,,,,41,,,,,,,,TP933_01-Black-41,800.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Shoes-Angle.jpg?v=1633183783,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp933-01,,,,,,,,,42,,,,,,,,TP933_01-Black-42,800.0,shopify,1,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Shoes-Top.jpg?v=1633183783,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp933-01,,,,,,,,,43,,,,,,,,TP933_01-Black-43,800.0,shopify,3,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Shoes-Back.jpg?v=1633183783,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-topland-mens-slip-on-formal-shoes-black-tp933-01,,,,,,,,,44,,,,,,,,TP933_01-Black-44,800.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Formal-Shoes-Style.jpg?v=1633183783,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,26.25,
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,GM02-Black-40_AN,700.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formals-Black-Mens-Side.jpg?v=1633503942,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,active
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,,,,,,,,,41,,,,,,,,GM02-Black-41_AN,700.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formals-Black-Mens-Angle.jpg?v=1633503942,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,,,,,,,,,42,,,,,,,,GM02-Black-42_AN,700.0,shopify,3,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formals-Black-Mens-Back.jpg?v=1633503942,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,,,,,,,,,43,,,,,,,,GM02-Black-43_AN,700.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formals-Black-Mens-Style.jpg?v=1633503942,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,,,,,,,,,44,,,,,,,,GM02-Black-44_AN,700.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Formals-Black-Mens-Top.jpg?v=1633503943,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,
+buy-green-fields-mens-slip-on-formal-shoes-black-gm02,,,,,,,,,45,,,,,,,,GM02-Black-45_AN,700.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,48.00,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,Mens Green Fields Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a data-mce-fragment=""1"" title=""Green Fields Formal Shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a data-mce-fragment=""1"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,OR04-Black-40_AN,900.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Men-FormalShoes-Black-Side.jpg?v=1633504465,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,,,,,,,,,41,,,,,,,,OR04-Black-41_AN,900.0,shopify,1,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Men-FormalShoes-Black-Angle.jpg?v=1633504465,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,,,,,,,,,42,,,,,,,,OR04-Black-42_AN,900.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Men-FormalShoes-Black-Back.jpg?v=1633504465,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,,,,,,,,,43,,,,,,,,OR04-Black-43_AN,900.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Men-FormalShoes-Black-Style.jpg?v=1633504466,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,,,,,,,,,44,,,,,,,,OR04-Black-44_AN,900.0,shopify,2,deny,manual,75.00,150.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Men-FormalShoes-Black-Top.jpg?v=1633504465,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-or04,,,,,,,,,45,,,,,,,,OR04-Black-45_AN,900.0,shopify,0,deny,manual,75.00,150.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.20,
+buy-high-land-mens-slip-on-formal-shoes-black-6593,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand High land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,6593-Black-40_N,800.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Men-FormalShoes-Black-Side.jpg?v=1633505882,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,active
+buy-high-land-mens-slip-on-formal-shoes-black-6593,,,,,,,,,41,,,,,,,,6593-Black-41_N,800.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Men-FormalShoes-Black-Top.jpg?v=1633505882,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,
+buy-high-land-mens-slip-on-formal-shoes-black-6593,,,,,,,,,42,,,,,,,,6593-Black-42_N,800.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Men-FormalShoes-Black-Back.jpg?v=1633505882,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,
+buy-high-land-mens-slip-on-formal-shoes-black-6593,,,,,,,,,43,,,,,,,,6593-Black-43_N,800.0,shopify,2,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Men-FormalShoes-Black-Style.jpg?v=1633505883,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,
+buy-high-land-mens-slip-on-formal-shoes-black-6593,,,,,,,,,44,,,,,,,,6593-Black-44_N,800.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Men-FormalShoes-Black-Angle.jpg?v=1633505883,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,
+buy-high-land-mens-slip-on-formal-shoes-black-6593,,,,,,,,,45,,,,,,,,6593-Black-45_N,800.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.75,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,Mens Green Fields Slip On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span><span data-mce-fragment=""1""> </span>
+</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Slip-On <a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"">formal</a> shoes  </span></li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,GM05-Black-40_AN_AN,900.0,shopify,1,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Slip-on-Formals-Side_6c50cc6b-1020-4e91-a81c-553400ea12c2.jpg?v=1638801048,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,,,,,,,,,41,,,,,,,,GM05-Black-41_AN_AN,900.0,shopify,2,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Slip-on-Formals-Angle_7e616f93-538e-4015-ae9d-0726a79059e4.jpg?v=1638801048,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,,,,,,,,,42,,,,,,,,GM05-Black-42_AN_AN,900.0,shopify,3,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Slip-on-Formals-Back_9ac010f8-b774-449d-83fa-9b0d8aaa23ed.jpg?v=1638801048,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,,,,,,,,,43,,,,,,,,GM05-Black-43_AN_AN,900.0,shopify,0,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Slip-on-Formals-Style_df3d6191-2909-4cde-a978-4d3c51399a95.jpg?v=1638801049,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,,,,,,,,,44,,,,,,,,GM05-Black-44_AN_AN,900.0,shopify,1,deny,manual,72.50,145.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-gm05,,,,,,,,,45,,,,,,,,GM05-Black-45_AN_AN,900.0,shopify,1,deny,manual,72.50,145.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-topland-mens-genuine-leather-formal-shoes-tp942,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Color Black</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP942-Black-6_AN,900.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Side.jpg?v=1638801450,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp942,,,,,,,,,41,,,,,,,,TP942-Black-7_AN,900.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Angle.jpg?v=1638801450,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp942,,,,,,,,,42,,,,,,,,TP942-Black-8_AN,900.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Angle_2.jpg?v=1638801451,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp942,,,,,,,,,43,,,,,,,,TP942-Black-9_AN,900.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Back.jpg?v=1638801451,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp942,,,,,,,,,44,,,,,,,,TP942-Black-10_AN,900.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp945,Mens Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">PU outsole for better grip</li>
+<li data-mce-fragment=""1"">Color Black</li>
+<li data-mce-fragment=""1"">Brand Topland</li>
+</ul>",SPIC,Apparel & Accessories > Shoes,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Black",true,Size,40,,,,,,,,TP945-Black-6_AN,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Side_213785d2-94ce-43dc-afe8-173eb2401892.jpg?v=1638801716,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,active
+buy-topland-mens-genuine-leather-formal-shoes-tp945,,,,,,,,,41,,,,,,,,TP945-Black-7_AN,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Front.jpg?v=1638801722,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp945,,,,,,,,,42,,,,,,,,TP945-Black-8_AN,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Back_3e738256-0959-413d-a6c8-26707eebc3e6.jpg?v=1638801728,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp945,,,,,,,,,43,,,,,,,,TP945-Black-9_AN,800.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Black-Slip-on-Formals-Style.jpg?v=1638801734,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-topland-mens-genuine-leather-formal-shoes-tp945,,,,,,,,,44,,,,,,,,TP945-Black-10_AN,800.0,shopify,0,deny,manual,70.00,140.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,42.00,
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand High land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,J_4803-Black-40_AN,900.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Slip-on-Formals-Side.jpg?v=1638802930,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,active
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,,,,,,,,,41,,,,,,,,J_4803-Black-41_AN,900.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Slip-on-Formals-Angle.jpg?v=1638802930,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,,,,,,,,,42,,,,,,,,J_4803-Black-42_AN,900.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Slip-on-Formals-Back.jpg?v=1638802930,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,,,,,,,,,43,,,,,,,,J_4803-Black-43_AN,900.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Slip-on-Formals-Frent.jpg?v=1638802929,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,,,,,,,,,44,,,,,,,,J_4803-Black-44_AN,900.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-high-land-mens-slip-on-formal-shoes-black-j-4803,,,,,,,,,45,,,,,,,,J_4803-Black-45_NOON,900.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-brown-tp-954-02,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Brown Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Topland</span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Brown",true,Size,40,,,,,,,,TP_954_02-Brown-40_AN,900.0,shopify,1,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Brown-Side.jpg?v=1638861361,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,active
+buy-topland-mens-slip-on-formal-shoes-brown-tp-954-02,,,,,,,,,41,,,,,,,,TP_954_02-Brown-41_AN,900.0,shopify,1,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Brown-Angle.jpg?v=1638861360,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-brown-tp-954-02,,,,,,,,,42,,,,,,,,TP_954_02-Brown-42_AN,900.0,shopify,1,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Brown-Style.jpg?v=1638861360,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-brown-tp-954-02,,,,,,,,,43,,,,,,,,TP_954_02-Brown-43_AN,900.0,shopify,2,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Brown-Top.jpg?v=1638861361,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-brown-tp-954-02,,,,,,,,,44,,,,,,,,TP_954_02-Brown-44_AN,900.0,shopify,3,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Brown-Back.jpg?v=1638861361,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-tan-tp-954-03,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Tan Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Topland</span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Topland, Category-Formal, Color_Tan",true,Size,40,,,,,,,,TP_954_03-Tan-40_AN,900.0,shopify,0,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Tan-Side.jpg?v=1638861594,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,active
+buy-topland-mens-slip-on-formal-shoes-tan-tp-954-03,,,,,,,,,41,,,,,,,,TP_954_03-Tan-41_AN,900.0,shopify,1,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Tan-Angle.jpg?v=1638861594,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-tan-tp-954-03,,,,,,,,,42,,,,,,,,TP_954_03-Tan-42_AN,900.0,shopify,1,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Tan-Top.jpg?v=1638861594,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-tan-tp-954-03,,,,,,,,,43,,,,,,,,TP_954_03-Tan-43_AN,900.0,shopify,2,deny,manual,45.00,90.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Topland-Mens-Formal-Tan-Back.jpg?v=1638861594,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-topland-mens-slip-on-formal-shoes-tan-tp-954-03,,,,,,,,,44,,,,,,,,TP_954_03-Tan-44_AN,900.0,shopify,3,deny,manual,45.00,90.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,31.50,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,Mens High Land Comfortable Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"" title=""High Land Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"">High Land</a>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,A_75-Black-40_AN,700.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Side.jpg?v=1639032146,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,active
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,,,,,,,,,41,,,,,,,,A_75-Black-41_AN,700.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Angle.jpg?v=1639032145,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,,,,,,,,,42,,,,,,,,A_75-Black-42_AN,700.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Style.jpg?v=1639032145,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,,,,,,,,,43,,,,,,,,A_75-Black-43_AN,700.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Back.jpg?v=1639032145,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,,,,,,,,,44,,,,,,,,A_75-Black-44_AN,700.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-a-75,,,,,,,,,45,,,,,,,,A_75-Black-45_AN,700.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,Mens High Land Comfortable Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"" title=""High Land Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"">High Land</a>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,6012-Black-40_AN,900.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Side_5734fdf3-7217-4953-9fa0-1c6438451e13.jpg?v=1639032386,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,active
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,,,,,,,,,41,,,,,,,,6012-Black-41_AN,900.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Angle_339cedab-6862-4d50-a3e6-5fa87bdd288e.jpg?v=1639032385,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,,,,,,,,,42,,,,,,,,6012-Black-42_AN,900.0,shopify,0,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Style_e52fbbb1-dc4a-459e-85be-92e40ce4c563.jpg?v=1639032386,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,,,,,,,,,43,,,,,,,,6012-Black-43_AN,900.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Back_0d261b6a-565a-4421-8993-4bffb8dc301e.jpg?v=1639032385,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,,,,,,,,,44,,,,,,,,6012-Black-44_AN,900.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-comfortable-formal-shoes-black-6012,,,,,,,,,45,,,,,,,,6012-Black-45_AN,900.0,shopify,1,deny,manual,49.50,99.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-high-land-slip-on-big-size-loafers-black-1604hl,Mens High Land Slip On Big Size Loafers,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> </span><a title=""High Land Formal Shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-high-land"" data-mce-fragment=""1"">High Land</a>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"">formal</a><span data-mce-fragment=""1""> </span>shoes </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,44,,,,,,,,1604HL-Black-44_AN,900.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Side_63b16658-fae0-40d2-9918-d4b1dbb0d59b.jpg?v=1639033031,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,active
+buy-high-land-mens-high-land-slip-on-big-size-loafers-black-1604hl,,,,,,,,,45,,,,,,,,1604HL-Black-45_AN,900.0,shopify,3,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Angle_54acb14b-ad9f-431c-9fe6-9e5cf63d6520.jpg?v=1639033031,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-high-land-mens-high-land-slip-on-big-size-loafers-black-1604hl,,,,,,,,,46,,,,,,,,1604HL-Black-46_AN,900.0,shopify,2,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Front.jpg?v=1639033030,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-high-land-mens-high-land-slip-on-big-size-loafers-black-1604hl,,,,,,,,,47,,,,,,,,1604HL-Black-47_AN,900.0,shopify,1,deny,manual,70.00,140.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Highland-Mens-Formal-Black-Back_dfef05c0-2f8f-4556-92eb-c0ed6c3cfc69.jpg?v=1639033030,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,47.25,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,Mens Green Fields Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a title=""Green Fields Formal Shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,9011-Black-40_AN_AN,900.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Side.jpg?v=1666591993,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,active
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,,,,,,,,,41,,,,,,,,9011-Black-41_AN_AN,900.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Style.jpg?v=1666591992,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,,,,,,,,,42,,,,,,,,9011-Black-42_AN_AN,900.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Front.jpg?v=1666591994,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,,,,,,,,,43,,,,,,,,9011-Black-43_AN_AN,900.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Angle.jpg?v=1666591993,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,,,,,,,,,44,,,,,,,,9011-Black-44_AN_AN,900.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Back.jpg?v=1666591992,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-green-fields-slip-on-formal-shoes-black-9011,,,,,,,,,45,,,,,,,,9011-Black-45_AN_AN,900.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,Mens Black Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a title=""Green Fields Formal Shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,1001-Black-40_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Side_9efabe89-3a1b-4117-b85f-43e1fb0f36a6.jpg?v=1666592876,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,active
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,,,,,,,,,41,,,,,,,,1001-Black-41_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Angle_3c3e7a3b-28bf-4664-a9c8-ec83001136ab.jpg?v=1666592876,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,,,,,,,,,42,,,,,,,,1001-Black-42_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Style_81e0ee50-de86-40c6-9613-24b603911746.jpg?v=1666592877,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,,,,,,,,,43,,,,,,,,1001-Black-43_AN,800.0,shopify,3,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Front_cd47a6e5-c215-403d-8a6d-b73a0d8b046f.jpg?v=1666592875,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,,,,,,,,,44,,,,,,,,1001-Black-44_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Formal-Mens-Black-Back_a184120b-f769-4bbc-b173-be18682b4b65.jpg?v=1666592875,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-black-slip-on-formal-shoes-black-1001,,,,,,,,,45,,,,,,,,1001-Black-45_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,Mens Formal Shoes Lace Style,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Green Fields</span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,6504GF-Black-40_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Black-Mens-Formal-Side.jpg?v=1666593564,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,active
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,,,,,,,,,41,,,,,,,,6504GF-Black-41_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Black-Mens-Formal-Front.jpg?v=1666593564,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,,,,,,,,,42,,,,,,,,6504GF-Black-42_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Black-Mens-Formal-Style.jpg?v=1666593565,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,,,,,,,,,43,,,,,,,,6504GF-Black-43_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Black-Mens-Formal-Angle.jpg?v=1666593566,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,,,,,,,,,44,,,,,,,,6504GF-Black-44_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Black-Mens-Formal-Back.jpg?v=1666593564,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-formal-shoes-lace-style-black-6504gf,,,,,,,,,45,,,,,,,,6504GF-Black-45_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" data-mce-fragment=""1"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,GL_04-Black-40_AN_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Shoes-Side.jpg?v=1666594621,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,active
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,,,,,,,,,41,,,,,,,,GL_04-Black-41_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Shoes-Style.jpg?v=1666594622,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,,,,,,,,,42,,,,,,,,GL_04-Black-42_AN_AN,800.0,shopify,3,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Shoes-Angle.jpg?v=1666594620,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,,,,,,,,,43,,,,,,,,GL_04-Black-43_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Shoes-Front.jpg?v=1666594621,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,,,,,,,,,44,,,,,,,,GL_04-Black-44_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/GreenFields-Mens-Black-Formal-Shoes-Back.jpg?v=1666594620,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-gl-04,,,,,,,,,45,,,,,,,,GL_04-Black-45_AN_AN,800.0,shopify,0,deny,manual,77.50,155.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,52.50,
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,Mens Slip-On Formal Shoes Black,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" data-mce-fragment=""1"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,78311-Black-40_AN_AN,800.0,shopify,0,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Formal-Black-Side.jpg?v=1666596414,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,active
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,,,,,,,,,41,,,,,,,,78311-Black-41_AN_AN,800.0,shopify,1,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Formal-Black-Angle.jpg?v=1666596414,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,,,,,,,,,42,,,,,,,,78311-Black-42_AN_AN,800.0,shopify,3,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Formal-Black-Style.jpg?v=1666596413,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,,,,,,,,,43,,,,,,,,78311-Black-43_AN_AN,800.0,shopify,3,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Formal-Black-Front.jpg?v=1666596414,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,,,,,,,,,44,,,,,,,,78311-Black-44_AN_AN,800.0,shopify,0,deny,manual,72.50,145.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Formal-Black-Back.jpg?v=1666596415,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,
+buy-green-fields-mens-slip-on-formal-shoes-black-black-78311,,,,,,,,,45,,,,,,,,78311-Black-45_AN_AN,800.0,shopify,0,deny,manual,72.50,145.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,50.75,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,Mens Green Fields Plain Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,9703-Black-40_AN_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Black-Formalshoes-Side.jpg?v=1666597464,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,active
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,,,,,,,,,41,,,,,,,,9703-Black-41_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Black-Formalshoes-Style.jpg?v=1666597465,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,,,,,,,,,42,,,,,,,,9703-Black-42_AN_AN,800.0,shopify,3,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Black-Formalshoes-Back.jpg?v=1666597464,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,,,,,,,,,43,,,,,,,,9703-Black-43_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Black-Formalshoes-Front.jpg?v=1666597465,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,,,,,,,,,44,,,,,,,,9703-Black-44_AN_AN,800.0,shopify,2,deny,manual,77.50,155.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/Greenfields-Mens-Black-Formalshoes-Angle.jpg?v=1666597466,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,
+buy-green-fields-mens-green-fields-plain-formal-shoes-black-9703,,,,,,,,,45,,,,,,,,9703-Black-45_AN_AN,800.0,shopify,1,deny,manual,77.50,155.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,49.00,
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,Mens Classic Burnished Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Brown Color</li>
+<li data-mce-fragment=""1"">Brand High land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Brown",true,Size,40,,,,,,,,5502-Brown-40_AN_AN,800.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Brown-Fromal-Side.jpg?v=1666600969,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,active
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,,,,,,,,,41,,,,,,,,5502-Brown-41_AN,800.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Brown-Fromal-Style.jpg?v=1666600969,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,,,,,,,,,42,,,,,,,,5502-Brown-42_AN,800.0,shopify,3,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Brown-Fromal-Angle.jpg?v=1666600970,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,,,,,,,,,43,,,,,,,,5502-Brown-43_AN,800.0,shopify,3,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Brown-Fromal-Back.jpg?v=1666600969,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,,,,,,,,,44,,,,,,,,5502-Brown-44_AN,800.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Brown-Fromal-Front.jpg?v=1666600969,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-burnished-formal-shoes-brown-5502,,,,,,,,,45,,,,,,,,5502-Brown-45_AN,800.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-black-formal-shoes-black-5502,Mens Classic Black Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand High land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,5502-Black-40_AN,800.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Fromal-Side.jpg?v=1666601309,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,active
+buy-high-land-mens-classic-black-formal-shoes-black-5502,,,,,,,,,41,,,,,,,,5502-Black-41_AN,800.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Fromal-Angle.jpg?v=1666601309,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-black-formal-shoes-black-5502,,,,,,,,,42,,,,,,,,5502-Black-42_AN,800.0,shopify,3,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Fromal-Style.jpg?v=1666601310,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-black-formal-shoes-black-5502,,,,,,,,,43,,,,,,,,5502-Black-43_AN,800.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Fromal-Back.jpg?v=1666601310,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-black-formal-shoes-black-5502,,,,,,,,,44,,,,,,,,5502-Black-44_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Fromal-Front.jpg?v=1666601310,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-classic-black-formal-shoes-black-5502,,,,,,,,,45,,,,,,,,5502-Black-45_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,35.00,
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,Mens Formal Shoes Lace Style,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> High Land</span>
+</li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,CAR_09-Black-40_AN,700.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formalshoes-Side.jpg?v=1666601965,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,active
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,,,,,,,,,41,,,,,,,,CAR_09-Black-41_AN,700.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formalshoes-Angle.jpg?v=1666601965,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,,,,,,,,,42,,,,,,,,CAR_09-Black-42_AN,700.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formalshoes-Front.jpg?v=1666601966,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,,,,,,,,,43,,,,,,,,CAR_09-Black-43_AN,700.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formalshoes-Back.jpg?v=1666601965,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,,,,,,,,,44,,,,,,,,CAR_09-Black-44_AN,700.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-Formalshoes-Style.jpg?v=1666601966,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,
+buy-high-land-mens-formal-shoes-lace-style-black-car-09,,,,,,,,,45,,,,,,,,CAR_09-Black-45_AN,700.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,36.75,
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,Mens Black Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand High land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a href=""https://www.dhukkan.com/collections/mens-shoes-formals"" title=""Formal shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,L_479-Black-40_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-FormalShoes-Side_553b5729-e7b8-4f75-b3eb-d350d5bb11d7.jpg?v=1666602318,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,active
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,,,,,,,,,41,,,,,,,,L_479-Black-41_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-FormalShoes-Angle_077fc8eb-8c1e-4edc-b67e-7d0adaff70c5.jpg?v=1666602317,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,,,,,,,,,42,,,,,,,,L_479-Black-42_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-FormalShoes-Back_f184d308-6201-4071-969e-575cd5d1ab56.jpg?v=1666602317,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,,,,,,,,,43,,,,,,,,L_479-Black-43_AN,800.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-FormalShoes-Style_3e3cd939-7f2f-4240-9482-caa88c4dbde5.jpg?v=1666602318,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,,,,,,,,,44,,,,,,,,L_479-Black-44_AN,800.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/products/HighLand-Mens-Black-FormalShoes-Front_ec073673-f197-4293-9792-d6e8884ee45c.jpg?v=1666602317,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+buy-high-land-mens-black-slip-on-formal-shoes-black-l-479,,,,,,,,,45,,,,,,,,L_479-Black-45_AN,800.0,shopify,0,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,33.25,
+mens-slip-on-formal-shoes,Mens Slip-On Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand High Land</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-High Land, Category-Formal, Color_Black",true,Size,40,,,,,,,,2301-Black-40_AN_AN_AZ,700.0,shopify,1,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/HighLand-Mens-Black-Formal-Side_05b9badb-5881-4c20-8658-1c0eadb1a44e.jpg?v=1706777554,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,active
+mens-slip-on-formal-shoes,,,,,,,,,41,,,,,,,,2301-Black-41_AN_AN_AZ,700.0,shopify,0,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/HighLand-Mens-Black-Formal-AngleSide.jpg?v=1706777554,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,
+mens-slip-on-formal-shoes,,,,,,,,,42,,,,,,,,2301-Black-42_AN_AN_AZ,700.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/HighLand-Mens-Black-Formal-Style_933ba4dc-9a93-4708-842a-b332a09b1fe7.jpg?v=1706777554,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,
+mens-slip-on-formal-shoes,,,,,,,,,43,,,,,,,,2301-Black-43_AN_AN_AZ,700.0,shopify,1,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/HighLand-Mens-Black-Formal-Angle_8e445075-98c0-4ca6-b182-c38c985a3683.jpg?v=1686727304,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,
+mens-slip-on-formal-shoes,,,,,,,,,44,,,,,,,,2301-Black-44_AN_AN_AZ,700.0,shopify,2,deny,manual,40.00,80.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/HighLand-Mens-Black-Formal-Back_022b62fc-38b5-4dc1-b789-e1fd82fd664a.jpg?v=1686727304,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,
+mens-slip-on-formal-shoes,,,,,,,,,45,,,,,,,,2301-Black-45_AN_AN_AZ,700.0,shopify,1,deny,manual,40.00,80.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,33.25,
+mens-formal-shoes-lace-style,Mens Formal Shoes Lace Style,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight,<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leather-look upper</span>
+</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Low-heel for added height and style</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand<span data-mce-fragment=""1""> Green Fields</span>
+</li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,7710-Black-40_AN_AN_Z,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formals-Side.jpg?v=1706777587,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,active
+mens-formal-shoes-lace-style,,,,,,,,,41,,,,,,,,7710-Black-41_AN_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formals-AngleStyle.jpg?v=1706777587,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-formal-shoes-lace-style,,,,,,,,,42,,,,,,,,7710-Black-42_AN_AN_Z,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formals-Style.jpg?v=1706777587,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-formal-shoes-lace-style,,,,,,,,,43,,,,,,,,7710-Black-43_AN_AN,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formals-Angle.jpg?v=1706777587,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-formal-shoes-lace-style,,,,,,,,,44,,,,,,,,7710-Black-44_AN_AN_Z,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formals-Back.jpg?v=1706777587,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-formal-shoes-lace-style,,,,,,,,,45,,,,,,,,7710-Black-45_AN_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-ferrini-genuine-leather-formal-shoes,Mens Ferrini Genuine Leather Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">The genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand Ferrini</li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Ferrini, Category-Formal, Color_Black",true,Size,40,,,,,,,,1861-Black-40_AN_AN_Z,800.0,shopify,1,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-Side_a6a87839-f339-4b12-8007-ecc77c675137.jpg?v=1706777563,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,active
+mens-ferrini-genuine-leather-formal-shoes,,,,,,,,,41,,,,,,,,1861-Black-41_AN_AN_Z,800.0,shopify,0,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-AngleSide.jpg?v=1706777563,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-formal-shoes,,,,,,,,,42,,,,,,,,1861-Black-42_AN_AN_Z,800.0,shopify,2,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-Style_337c2bb8-72c6-439c-acb5-d69444510b3f.jpg?v=1706777563,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-formal-shoes,,,,,,,,,43,,,,,,,,1861-Black-43_AN_AN_Z,800.0,shopify,2,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-Angle_b9732baa-4a57-4694-a409-796e2061e724.jpg?v=1706777563,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-formal-shoes,,,,,,,,,44,,,,,,,,1861-Black-44_AN_AN_Z,800.0,shopify,2,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-Back_37ba77df-0450-41fa-8a61-c74e90f7122a.jpg?v=1706777563,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-formal-shoes,,,,,,,,,45,,,,,,,,1861-Black-45_AN_AN_Z,800.0,shopify,1,deny,manual,99.50,199.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-lace-up-formal-shoes,Mens Ferrini Genuine Leather Lace-Up Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">The genuine leather <span data-mce-fragment=""1"">upper and inner lining</span>
+</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Eyelets with lace-up closure for a secure fit</li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand Ferrini</li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Ferrini, Category-Formal, Color_Black",true,Size,40,,,,,,,,4815-Black-40_AN_AN_Z,800.0,shopify,1,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-sIDE_37585bd7-a071-4139-b516-de66691f94c7.jpg?v=1706518614,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,active
+mens-ferrini-genuine-leather-lace-up-formal-shoes,,,,,,,,,41,,,,,,,,4815-Black-41_AN_AN_Z,800.0,shopify,1,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-AnglesIDE_2.jpg?v=1706518614,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-lace-up-formal-shoes,,,,,,,,,42,,,,,,,,4815-Black-42_AN_AN_z,800.0,shopify,0,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-sTYLE_6083c583-4414-4960-a04e-6a1977498982.jpg?v=1706518614,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-lace-up-formal-shoes,,,,,,,,,43,,,,,,,,4815-Black-43_AN_AN_Z,800.0,shopify,3,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-AngleSide_4f1a2b3b-3c25-4ab6-b9fd-1e2ced8ff02c.jpg?v=1706518614,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-lace-up-formal-shoes,,,,,,,,,44,,,,,,,,4815-Black-44_AN_AN_Z,800.0,shopify,1,deny,manual,99.50,199.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/Ferrini-Mens-Black-Formal-Angle_dc7083de-d3e0-42b1-82b2-d63faf5ea711.jpg?v=1706518614,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-ferrini-genuine-leather-lace-up-formal-shoes,,,,,,,,,45,,,,,,,,4815-Black-45_AN_AN_Z,800.0,shopify,2,deny,manual,99.50,199.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,73.50,
+mens-casual-shoes,Mens Casual Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Lightweight, <span data-mce-fragment=""1"">synthetic</span><span data-mce-fragment=""1""> </span>leather upper with velvet-feel material pattern &amp; stitch details</li>
+<li data-mce-fragment=""1"">Cushioned footbed for added comfort</li>
+<li data-mce-fragment=""1"">Patterned synthetic outsole for better grip</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Metal buckle to the front</span></li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Black Color</span></li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Brand Green Fields</span></li>
+</ul>",SPIC,Uncategorized,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black, Color_Green",true,Size,40,,,,,,,,79852-Black-40_AN_AZ,800.0,shopify,0,deny,manual,60.00,120.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/2_3d70dcaf-fdd4-4b81-a4eb-531290747c9c.jpg?v=1706777605,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,active
+mens-casual-shoes,,,,,,,,,41,,,,,,,,79852-Black-41_AN_Z,800.0,shopify,2,deny,manual,60.00,120.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/4_2801d501-2832-4600-969d-367c44dd7905.jpg?v=1706777605,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,
+mens-casual-shoes,,,,,,,,,42,,,,,,,,79852-Black-42_AN_Z,800.0,shopify,2,deny,manual,60.00,120.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/5_5dd6aa83-7fea-47db-a0b7-d663433da7a2.jpg?v=1706777605,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,
+mens-casual-shoes,,,,,,,,,43,,,,,,,,79852-Black-43_AN_Z,800.0,shopify,1,deny,manual,60.00,120.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/1_bfe03379-667c-4adc-8afa-e7d7e8311e33.jpg?v=1686731949,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,
+mens-casual-shoes,,,,,,,,,44,,,,,,,,79852-Black-44_AN_AZ,800.0,shopify,0,deny,manual,60.00,120.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/3_2feee4e0-8550-4497-b2cb-056adfc128e5.jpg?v=1686731949,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,
+mens-casual-shoes,,,,,,,,,45,,,,,,,,79852-Black-45_AN_Z,800.0,shopify,1,deny,manual,60.00,120.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,49.00,
+mens-green-fields-plain-formal-shoes,Mens Green Fields Plain Formal Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand <span data-mce-fragment=""1""><a href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"" title=""Green Fields Formal Shoes"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals/brand-green-fields"">Green Fields</a></span>
+</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Green Fields, Category-Formal, Color_Black",true,Size,40,,,,,,,,CA_03-Black-40_AN_AN_Z,800.0,shopify,1,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formal-Side.jpg?v=1706777531,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,active
+mens-green-fields-plain-formal-shoes,,,,,,,,,41,,,,,,,,CA_03-Black-41_AN_AN_Z,800.0,shopify,2,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formal-AngleSide.jpg?v=1706777531,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-green-fields-plain-formal-shoes,,,,,,,,,42,,,,,,,,CA_03-Black-42_AN_AN_Z,800.0,shopify,2,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formal-Style.jpg?v=1706777531,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-green-fields-plain-formal-shoes,,,,,,,,,43,,,,,,,,CA_03-Black-43_AN_AN_Z,800.0,shopify,3,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formal-Angle.jpg?v=1706777531,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-green-fields-plain-formal-shoes,,,,,,,,,44,,,,,,,,CA_03-Black-44_AN_AN_Z,800.0,shopify,2,deny,manual,67.50,135.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/GreenFields-Black-Formal-Back.jpg?v=1706777531,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-green-fields-plain-formal-shoes,,,,,,,,,45,,,,,,,,CA_03-Black-45_AN_AN,800.0,shopify,0,deny,manual,67.50,135.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,47.25,
+mens-formal-slip-ons-shoes,Mens Formal Slip Ons Shoes,"<ul data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">Leather-look, durable synthetic upper</li>
+<li data-mce-fragment=""1"">Slightly cushioned footbed for comfort</li>
+<li data-mce-fragment=""1"">Slip-on style with elasticated inserts</li>
+<li data-mce-fragment=""1""><span data-mce-fragment=""1"">Thin leather inner lining with a flexible outsole</span></li>
+<li data-mce-fragment=""1"">Black Color</li>
+<li data-mce-fragment=""1"">Brand Climber</li>
+<li data-mce-fragment=""1"">Slip-on<span data-mce-fragment=""1""> </span><a title=""Formal shoes"" href=""https://www.dhukkan.com/collections/mens-shoes-formals"" data-mce-fragment=""1"" data-mce-href=""https://www.dhukkan.com/collections/mens-shoes-formals"">formal</a><span data-mce-fragment=""1""> </span>shoes  </li>
+</ul>",SPIC,,Shoes,"Apparel_Mens, B1G1, Brand-Climber, Category-Formal, Color_Black",true,Size,40,,,,,,,,MONK02-Black-40_AN_AN,700.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/3_e000a4a3-5fef-44c8-af3c-01ca789f8f92.jpg?v=1706777518,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,active
+mens-formal-slip-ons-shoes,,,,,,,,,41,,,,,,,,MONK02-Black-41_AN_AN,700.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/5_1416b75e-3b97-4871-bb2d-1f358be9ec2d.jpg?v=1706777518,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,
+mens-formal-slip-ons-shoes,,,,,,,,,42,,,,,,,,MONK02-Black-42_AN_AN,700.0,shopify,3,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/1_26c9b1ea-a929-4da8-9213-6ae4973a1357.jpg?v=1706777518,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,
+mens-formal-slip-ons-shoes,,,,,,,,,43,,,,,,,,MONK02-Black-43_AN_AN,700.0,shopify,3,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/2_8b389bda-1973-4806-80e8-c085518a5218.jpg?v=1706777518,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,
+mens-formal-slip-ons-shoes,,,,,,,,,44,,,,,,,,MONK02-Black-44_AN_AN,700.0,shopify,2,deny,manual,55.00,110.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0082/8473/3506/files/4_c29b68f2-14a9-43d4-b99b-87c0aff917bb.jpg?v=1686733605,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,
+mens-formal-slip-ons-shoes,,,,,,,,,45,,,,,,,,MONK02-Black-45_AN_AN,700.0,shopify,1,deny,manual,55.00,110.00,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,g,,42.00,
