@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Streamlit web app for processing Shopify inventory CSV files.
-Upload a CSV file and download the processed Excel output.
+Version 2: Simplified output with SKU, Total Quantity, Cost Price, Total Cost Price.
 """
 
 import streamlit as st
@@ -10,142 +10,121 @@ import re
 from collections import defaultdict
 from io import BytesIO
 
-# Import processing functions from process_inventory
-from process_inventory import (
-    extract_base_sku_and_size,
-    get_us_to_eu_size_conversion,
-    is_eu_size,
-    is_us_size,
-    get_equivalent_eu_size,
-    consolidate_eu_us_sizes
-)
+
+def extract_base_sku(variant_sku):
+    """
+    Extract base SKU from variant SKU by removing the size suffix.
+    """
+    if pd.isna(variant_sku) or not variant_sku or not isinstance(variant_sku, str):
+        return None
+    
+    parts = variant_sku.split('-')
+    
+    if len(parts) < 2:
+        return None
+    
+    last_segment = parts[-1]
+    numeric_match = re.search(r'(\d+)', last_segment)
+    if numeric_match:
+        return '-'.join(parts[:-1])
+    
+    if last_segment.isdigit():
+        return '-'.join(parts[:-1])
+    
+    return None
 
 
-def process_inventory_dataframe(df):
-    """
-    Process the DataFrame and return processed output DataFrame.
+def parse_numeric(value):
+    """Parse a numeric value from string."""
+    if pd.isna(value) or value == '' or value is None:
+        return 0.0
     
-    Args:
-        df: Input DataFrame with 'Variant SKU' and 'Variant Inventory Qty' columns
-        
-    Returns:
-        DataFrame: Processed inventory data with consolidated sizes
+    try:
+        if isinstance(value, str):
+            cleaned = re.sub(r'[^\d.\-]', '', value)
+            return float(cleaned) if cleaned else 0.0
+        return float(value)
+    except (ValueError, TypeError):
+        return 0.0
+
+
+def process_inventory_dataframe_v2(df, cost_column=None):
     """
-    # Dictionary to store base SKU -> {size: inventory}
-    inventory_data = defaultdict(dict)
-    all_sizes = set()
+    Process the DataFrame and return cost summary output DataFrame.
+    """
+    inventory_data = defaultdict(lambda: {'total_qty': 0, 'cost_price': None})
     
-    # Process each row
     for idx, row in df.iterrows():
         variant_sku = row['Variant SKU']
         inventory_qty_str = row['Variant Inventory Qty']
         
-        # Extract base SKU and size
-        base_sku, size = extract_base_sku_and_size(variant_sku)
+        base_sku = extract_base_sku(variant_sku)
         
-        if base_sku is None or size is None:
-            # Skip rows where we can't extract base SKU and size
+        if base_sku is None:
             continue
         
-        # Parse inventory quantity
-        try:
-            # Try to convert to int/float
-            inventory_qty = float(inventory_qty_str) if inventory_qty_str else 0
-            inventory_qty = int(inventory_qty) if inventory_qty == int(inventory_qty) else inventory_qty
-        except (ValueError, TypeError):
-            inventory_qty = 0
+        inventory_qty = parse_numeric(inventory_qty_str)
         
-        # Store inventory data
-        inventory_data[base_sku][size] = inventory_qty
-        all_sizes.add(size)
+        cost_price = 0.0
+        if cost_column and cost_column in row:
+            cost_price = parse_numeric(row[cost_column])
+        
+        inventory_data[base_sku]['total_qty'] += inventory_qty
+        
+        if inventory_data[base_sku]['cost_price'] is None and cost_price > 0:
+            inventory_data[base_sku]['cost_price'] = cost_price
     
     if not inventory_data:
         raise ValueError("No valid inventory data found. Check if Variant SKU format is correct.")
     
-    # Consolidate EU/US duplicate sizes
-    inventory_data, removed_sizes = consolidate_eu_us_sizes(inventory_data)
-    
-    if removed_sizes:
-        st.info(f"Removed US sizes (merged into EU equivalents): {sorted(removed_sizes)}")
-        # Remove US sizes from all_sizes set
-        all_sizes = all_sizes - removed_sizes
-    
-    # Sort sizes numerically
-    try:
-        sorted_sizes = sorted(all_sizes, key=lambda x: float(x) if '.' in str(x) else int(x))
-    except ValueError:
-        # If sizes can't be converted to int/float, sort alphabetically
-        sorted_sizes = sorted(all_sizes)
-    
-    # Build output DataFrame
     output_rows = []
     for base_sku in sorted(inventory_data.keys()):
-        row_data = {'SKU': base_sku}
+        data = inventory_data[base_sku]
+        total_qty = data['total_qty']
+        cost_price = data['cost_price'] if data['cost_price'] is not None else 0.0
+        total_cost_price = total_qty * cost_price
         
-        # Add inventory for each size
-        total_inventory = 0
-        for size in sorted_sizes:
-            inventory = inventory_data[base_sku].get(size, None)
-            if inventory is not None:
-                row_data[size] = inventory
-                total_inventory += inventory
-            else:
-                row_data[size] = None  # Empty cell for missing sizes
-        
-        # Add total column
-        row_data['Total'] = total_inventory
-        output_rows.append(row_data)
+        output_rows.append({
+            'SKU': base_sku,
+            'Total Quantity': int(total_qty) if total_qty == int(total_qty) else total_qty,
+            'Cost Price': round(cost_price, 2),
+            'Total Cost Price': round(total_cost_price, 2)
+        })
     
-    # Create DataFrame
     output_df = pd.DataFrame(output_rows)
-    
-    # Reorder columns: SKU, sizes (sorted), Total
-    column_order = ['SKU'] + sorted_sizes + ['Total']
-    output_df = output_df[column_order]
-    
-    # Sort by Total column in descending order (highest first)
-    output_df = output_df.sort_values('Total', ascending=False).reset_index(drop=True)
+    output_df = output_df.sort_values('Total Cost Price', ascending=False).reset_index(drop=True)
     
     return output_df
 
 
 def to_excel_bytes(df):
-    """
-    Convert DataFrame to Excel file in memory.
-    
-    Args:
-        df: DataFrame to convert
-        
-    Returns:
-        bytes: Excel file as bytes
-    """
+    """Convert DataFrame to Excel file in memory."""
     output = BytesIO()
     with pd.ExcelWriter(output, engine='openpyxl') as writer:
-        df.to_excel(writer, index=False, sheet_name='Inventory')
+        df.to_excel(writer, index=False, sheet_name='Inventory Cost')
     output.seek(0)
     return output.getvalue()
 
 
 # Streamlit UI
 st.set_page_config(
-    page_title="Inventory Processor",
-    page_icon="📦",
+    page_title="Inventory Cost Processor v2",
+    page_icon="💰",
     layout="centered"
 )
 
-st.title("📦 Inventory Processor")
-st.markdown("Process Shopify product export CSV files and generate Excel output with consolidated EU/US sizes.")
+st.title("💰 Inventory Cost Processor v2")
+st.markdown("Process Shopify CSV files and generate cost summary with **SKU, Total Quantity, Cost Price, Total Cost Price**.")
 
 # File upload
 uploaded_file = st.file_uploader(
     "Upload CSV file",
     type=['csv'],
-    help="Upload a Shopify export CSV file with 'Variant SKU' and 'Variant Inventory Qty' columns"
+    help="Upload a Shopify export CSV file with 'Variant SKU', 'Variant Inventory Qty', and 'Cost per item' columns"
 )
 
 if uploaded_file is not None:
     try:
-        # Read CSV file
         with st.spinner("Reading CSV file..."):
             df = pd.read_csv(uploaded_file, dtype=str, keep_default_na=False)
         
@@ -157,22 +136,33 @@ if uploaded_file is not None:
             st.error(f"❌ Required columns missing: {missing_columns}")
             st.info("Please ensure your CSV file contains 'Variant SKU' and 'Variant Inventory Qty' columns.")
         else:
-            # Show preview
+            # Find cost column
+            cost_column = None
+            possible_cost_columns = ['Cost per item', 'Variant Cost', 'Cost Price', 'Cost']
+            for col in possible_cost_columns:
+                if col in df.columns:
+                    cost_column = col
+                    break
+            
             st.success(f"✅ File loaded successfully! ({len(df)} rows)")
+            
+            if cost_column:
+                st.info(f"📊 Using cost column: **{cost_column}**")
+            else:
+                st.warning("⚠️ No cost column found. Cost values will be 0.")
             
             with st.expander("Preview CSV data"):
                 st.dataframe(df.head(10))
             
-            # Process the data
             if st.button("Process Inventory", type="primary"):
                 with st.spinner("Processing inventory data..."):
                     try:
-                        output_df = process_inventory_dataframe(df)
+                        output_df = process_inventory_dataframe_v2(df, cost_column)
                         
                         st.success(f"✅ Processing complete! ({len(output_df)} products)")
                         
                         # Show preview of results
-                        with st.expander("Preview processed data"):
+                        with st.expander("Preview processed data", expanded=True):
                             st.dataframe(output_df.head(20))
                         
                         # Show statistics
@@ -180,10 +170,11 @@ if uploaded_file is not None:
                         with col1:
                             st.metric("Total Products", len(output_df))
                         with col2:
-                            st.metric("Total Sizes", len(output_df.columns) - 2)  # Exclude SKU and Total
+                            total_qty = output_df['Total Quantity'].sum()
+                            st.metric("Total Inventory", f"{int(total_qty):,}")
                         with col3:
-                            total_inventory = output_df['Total'].sum()
-                            st.metric("Total Inventory", f"{int(total_inventory):,}")
+                            total_cost = output_df['Total Cost Price'].sum()
+                            st.metric("Total Cost Value", f"${total_cost:,.2f}")
                         
                         # Generate Excel file
                         excel_bytes = to_excel_bytes(output_df)
@@ -192,7 +183,7 @@ if uploaded_file is not None:
                         st.download_button(
                             label="📥 Download Excel File",
                             data=excel_bytes,
-                            file_name=f"{uploaded_file.name.rsplit('.', 1)[0]}_processed.xlsx",
+                            file_name=f"{uploaded_file.name.rsplit('.', 1)[0]}_cost_summary.xlsx",
                             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                             type="primary"
                         )
@@ -206,7 +197,6 @@ if uploaded_file is not None:
         st.exception(e)
 
 else:
-    # Show instructions when no file is uploaded
     st.info("👆 Please upload a CSV file to get started.")
     
     with st.expander("📋 Instructions"):
@@ -220,28 +210,34 @@ else:
         ### Required CSV columns:
         - **Variant SKU**: The SKU for each variant (e.g., 'sku-1234-41')
         - **Variant Inventory Qty**: The inventory quantity for each variant
+        - **Cost per item** (optional): The cost price per unit
         
-        ### Features:
-        - ✅ Extracts base SKU and size from variant SKU
-        - ✅ Groups inventory by base SKU and size
-        - ✅ Consolidates duplicate EU/US sizes (keeps EU only)
-        - ✅ Sorts by total inventory (highest first)
+        ### Output columns:
+        | Column | Description |
+        |--------|-------------|
+        | SKU | Base SKU (without size suffix) |
+        | Total Quantity | Sum of all size variants |
+        | Cost Price | Cost per unit |
+        | Total Cost Price | Total Quantity × Cost Price |
         """)
     
-    # Show example
-    with st.expander("📄 Example CSV format"):
-        example_data = {
-            'Variant SKU': [
-                'sku-1234-black-41',
-                'sku-1234-black-42',
-                'sku-1234-black-9',  # US size
-                'sku-1234-red-40',
-                'sku-1234-red-41'
-            ],
-            'Variant Inventory Qty': ['5', '3', '2', '4', '6']
-        }
-        example_df = pd.DataFrame(example_data)
-        st.dataframe(example_df)
+    with st.expander("📄 Example"):
+        st.markdown("**Input CSV:**")
+        example_input = pd.DataFrame({
+            'Variant SKU': ['sku-1234-black-41', 'sku-1234-black-42', 'sku-1234-red-40'],
+            'Variant Inventory Qty': ['5', '3', '4'],
+            'Cost per item': ['25.00', '25.00', '30.00']
+        })
+        st.dataframe(example_input)
+        
+        st.markdown("**Output:**")
+        example_output = pd.DataFrame({
+            'SKU': ['sku-1234-black', 'sku-1234-red'],
+            'Total Quantity': [8, 4],
+            'Cost Price': [25.00, 30.00],
+            'Total Cost Price': [200.00, 120.00]
+        })
+        st.dataframe(example_output)
 
 # Footer
 st.markdown("---")
@@ -251,4 +247,3 @@ st.markdown(
     "</div>",
     unsafe_allow_html=True
 )
-
